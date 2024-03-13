@@ -11,4 +11,8 @@ My goals for the next 100 days is to
 
 # Day 2:
 - Watched 50 mins of React JS tutorial and added styling to project and did assignment questions
+- Watched 90 mins of DSA on Binary and solved 2 questions
+  - ## Goal for tomorrow
+  - Try to finish binary search problems
+  - Try to fins the current React assignment
 
