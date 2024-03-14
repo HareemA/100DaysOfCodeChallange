@@ -16,3 +16,5 @@ My goals for the next 100 days is to
   - Try to finish binary search problems
   - Try to fins the current React assignment
 
+# Day 3
+- Watched 30mins of React JS tutorial and finished building 2 static pages as assignment.
