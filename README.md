@@ -18,3 +18,10 @@ My goals for the next 100 days is to
 
 # Day 3
 - Watched 30mins of React JS tutorial and finished building 2 static pages as assignment.
+
+# Day 4
+- Watched 1 hour 20 mins of React course and completed another projects which is a clone of airBnB.
+- Learned about props and maps in React js
+  - ## Goal for tomorrow
+  - Try to make the UI of the project for construction company
+  - Try to do DSA
