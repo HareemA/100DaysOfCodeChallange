@@ -28,4 +28,10 @@ My goals for the next 100 days is to
 
 # Day 5
 - Made a travel journal using React JS and practiced using Props and design
+- Made a random meme generator (not complete yet). Learned about state.
+- Watched 1 hour 10 mins of React video.
+  - ## Goal for tomorrow
+  - finish meme generator project
+  - push all the projects done till now on github
+  - host a project on github
   
