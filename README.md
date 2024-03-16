@@ -25,3 +25,7 @@ My goals for the next 100 days is to
   - ## Goal for tomorrow
   - Try to make the UI of the project for construction company
   - Try to do DSA
+
+# Day 5
+- Made a travel journal using React JS and practiced using Props and design
+  
