@@ -12,9 +12,6 @@ My goals for the next 100 days is to
 # Day 2:
 - Watched 50 mins of React JS tutorial and added styling to project and did assignment questions
 - Watched 90 mins of DSA on Binary and solved 2 questions
-  - ## Goal for tomorrow
-  - Try to finish binary search problems
-  - Try to fins the current React assignment
 
 # Day 3
 - Watched 30mins of React JS tutorial and finished building 2 static pages as assignment.
@@ -22,16 +19,13 @@ My goals for the next 100 days is to
 # Day 4
 - Watched 1 hour 20 mins of React course and completed another projects which is a clone of airBnB.
 - Learned about props and maps in React js
-  - ## Goal for tomorrow
-  - Try to make the UI of the project for construction company
-  - Try to do DSA
 
 # Day 5
 - Made a travel journal using React JS and practiced using Props and design
 - Made a random meme generator (not complete yet). Learned about state.
 - Watched 1 hour 10 mins of React video.
-  - ## Goal for tomorrow
-  - finish meme generator project
-  - push all the projects done till now on github
-  - host a project on github
+
+# Day 6
+- Watched one hour 30 mins of React Js tutorial.
+- Solved alot of practice problems learned about ternary operators and states and more about props and practied them.
   
