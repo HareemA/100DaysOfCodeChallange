@@ -28,4 +28,8 @@ My goals for the next 100 days is to
 # Day 6
 - Watched one hour 30 mins of React Js tutorial.
 - Solved alot of practice problems learned about ternary operators and states and more about props and practied them.
-  
+
+# Day 7
+- Watched 30 mins of react tutorial
+- Learned about conditional operators and ternary operators and forms.
+- Solved practice problems
