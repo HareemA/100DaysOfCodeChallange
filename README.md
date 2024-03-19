@@ -33,3 +33,9 @@ My goals for the next 100 days is to
 - Watched 30 mins of react tutorial
 - Learned about conditional operators and ternary operators and forms.
 - Solved practice problems
+
+# Day 8
+- Watched 1 hour of React tutorial
+- Learned about forms and different form elements like checkbox, radio button etc and practiced questions.
+- Learned about fetching data through APIs using fetch() and about Side Effects and UseState
+- Completed Meme generator project
