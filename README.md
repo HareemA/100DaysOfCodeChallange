@@ -14,7 +14,7 @@ My goals for the next 100 days is to
 - Watched 90 mins of DSA on Binary and solved 2 questions
 
 # Day 3
-- Watched 30mins of React JS tutorial and finished building 2 static pages as assignment.
+- Watched 30mins of React JS tutorial and finished building 2 static pages as projects.
 
 # Day 4
 - Watched 1 hour 20 mins of React course and completed another projects which is a clone of airBnB.
