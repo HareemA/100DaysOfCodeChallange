@@ -39,3 +39,8 @@ My goals for the next 100 days is to
 - Learned about forms and different form elements like checkbox, radio button etc and practiced questions.
 - Learned about fetching data through APIs using fetch() and about Side Effects and UseState
 - Completed Meme generator project
+
+# Day 9
+- Watched 30 mins of React course.
+- Practiced more problems and did some changes to old code.
+- Learned more about side effects.
