@@ -44,3 +44,20 @@ My goals for the next 100 days is to
 - Watched 30 mins of React course.
 - Practiced more problems and did some changes to old code.
 - Learned more about side effects.
+
+# Day 10
+- Got a project from client to make a website in React JS
+- Made a the Home page
+
+# Day 11
+- Made About and Services page using React.js
+
+# Day 12
+- Made Book and other pages and hosted on githubpages
+
+# Day 13
+- Got clients feedback and fixed design.
+- Connected with Email.js to receive emails
+
+# Day 14
+- About to start a MERN course on youtube. Goal is to finish in a month.
